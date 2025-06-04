@@ -24,21 +24,21 @@ To use this `.zrp` file with Zenith:
 
 1.  **Download the `.zrp` file:**
     * Go to the [Releases page](https://github.com/N4me-MIDI/Synthesia-For-Zenith-60Hz/releases) of this repository.
-    * Download the `SynthesiaForBlackMidiX1.zrp` file.
+    * Download the `SynthesiaiX1.zrp` file.
 
 2.  **Put your Synthesia Resource Pack:**
     * Open Zenith.
     * Go to `Modules` -> `Scripted` -> `Module Settings` -> `Open Folder`.
    
 3.  **Copy the `.zrp` file:**
-    * Place the downloaded `SynthesiaForBlackMidiX1.zrp` file into the "Scripted" folder you just opened.
+    * Place the downloaded `SynthesiaX1.zrp` file into the "Scripted" folder you just opened.
 
 4.  **Restart Zenith:**
     * Close and reopen Zenith.
 
 5.  **Select the pack in Zenith:**
-    * Go to `Settings` -> `Visual` -> `Resource Pack`.
-    * Select `SynthesiaForBlackMidiX1` from the list.
+    * Go to `Modules` -> `Scripted` -> `Module Settings`
+    * Select `SynthesiaX1` from the list.
 
 ## Recommended Audio Setup (for Optimal Experience)
 
