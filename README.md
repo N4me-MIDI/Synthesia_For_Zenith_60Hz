@@ -55,4 +55,4 @@ While this pack is primarily visual, having a good audio setup is crucial for Bl
 * **Pack Uploader / Distributor:** N4me-MIDI (https://github.com/N4me-MIDI)
 * **Synthesia:** (www.synthesiagame.com)
 * **OmniMIDI / KDMAPI:** [Link to Keppy's Software / OmniMIDI page]
-* **FluidR3_GM.sf2:** [Mention original creator/source if known, e.g., "Frank Wen (FluidSynth project)"]
+* **FluidR3_GM soundfont:** (https://member.keymusician.com/Member/FluidR3_GM/index.html)
